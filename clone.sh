@@ -12,5 +12,3 @@ git checkout ${PLUGIN_BRANCH}
 
 # Prints the last commit
 git log -1 --stat
-
-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
